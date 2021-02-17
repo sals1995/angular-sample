@@ -1,0 +1,28 @@
+.navbar-top-links a.btn {
+  position: relative;
+  height: 30px;
+  min-width: 40px;
+  width: auto;
+  background: #40454a !important;
+  color: #fff !important;
+  text-shadow: none !important;
+  /* padding: 5px 10px !important; */
+  margin: 5px 3px;
+  border-radius: 0;
+  font-size: 12px;
+}
+
+.navbar-header .btn {
+  display: inline-block;
+  margin: 0;
+  font-size: 15px;
+  text-align: center;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+#side-menu > li > a {
+  cursor: pointer !important;
+}
